@@ -1,1 +1,3 @@
-# git clone https://github.com/3oraqi/1m5t
+hack windows 7/xp/10 
+Easy script
+coded by 3oraqi
