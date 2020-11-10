@@ -7,6 +7,6 @@ How to install ?
 # chmod +x 1m5t.sh
 # sudo ./1m5t.sh
 ================================================
-how to use ?
+# how to use ?
 # watch this video : https://www.youtube.com/watch?v=EQpMPtMfNSY
 
